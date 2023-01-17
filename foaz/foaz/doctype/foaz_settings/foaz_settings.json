@@ -1,0 +1,65 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2022-11-03 16:37:01.883270",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "tokan",
+  "url",
+  "fetching_section_section",
+  "fetch_employees",
+  "fetch_transactions"
+ ],
+ "fields": [
+  {
+   "fieldname": "tokan",
+   "fieldtype": "Password",
+   "label": "Tokan",
+   "length": 300
+  },
+  {
+   "fieldname": "fetching_section_section",
+   "fieldtype": "Section Break",
+   "label": "Fetching Data Section"
+  },
+  {
+   "fieldname": "fetch_transactions",
+   "fieldtype": "Button",
+   "label": "Fetch Transactions"
+  },
+  {
+   "fieldname": "fetch_employees",
+   "fieldtype": "Button",
+   "label": "Fetch Employees"
+  },
+  {
+   "fieldname": "url",
+   "fieldtype": "Data",
+   "label": "URL"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "issingle": 1,
+ "links": [],
+ "modified": "2022-11-21 11:02:31.150746",
+ "modified_by": "Administrator",
+ "module": "Foaz",
+ "name": "Foaz Settings",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "print": 1,
+   "read": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC"
+}

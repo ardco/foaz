@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include foaz *.css
+recursive-include foaz *.csv
+recursive-include foaz *.html
+recursive-include foaz *.ico
+recursive-include foaz *.js
+recursive-include foaz *.json
+recursive-include foaz *.md
+recursive-include foaz *.png
+recursive-include foaz *.py
+recursive-include foaz *.svg
+recursive-include foaz *.txt
+recursive-exclude foaz *.pyc

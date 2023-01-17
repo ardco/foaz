@@ -1,0 +1,37 @@
+{
+ "category": "Modules",
+ "charts": [],
+ "creation": "2022-11-21 11:00:57.584691",
+ "developer_mode_only": 0,
+ "disable_user_customization": 0,
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "extends_another_page": 0,
+ "hide_custom": 0,
+ "idx": 0,
+ "is_default": 0,
+ "is_standard": 1,
+ "label": "Foaz",
+ "links": [],
+ "modified": "2023-01-15 09:42:28.921741",
+ "modified_by": "Administrator",
+ "module": "Foaz",
+ "name": "Foaz",
+ "owner": "Administrator",
+ "pin_to_bottom": 0,
+ "pin_to_top": 1,
+ "shortcuts": [
+  {
+   "doc_view": "",
+   "label": "Foaz Settings",
+   "link_to": "Foaz Settings",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "",
+   "label": "Violation",
+   "link_to": "Violation",
+   "type": "DocType"
+  }
+ ]
+}

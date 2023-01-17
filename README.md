@@ -1,0 +1,7 @@
+## Foaz
+
+HR
+
+#### License
+
+MIT
