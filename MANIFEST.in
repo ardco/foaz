@@ -4,15 +4,15 @@ include *.json
 include *.md
 include *.py
 include *.txt
-recursive-include foaz *.css
-recursive-include foaz *.csv
-recursive-include foaz *.html
-recursive-include foaz *.ico
-recursive-include foaz *.js
-recursive-include foaz *.json
-recursive-include foaz *.md
-recursive-include foaz *.png
-recursive-include foaz *.py
-recursive-include foaz *.svg
-recursive-include foaz *.txt
-recursive-exclude foaz *.pyc
+recursive-include fouz *.css
+recursive-include fouz *.csv
+recursive-include fouz *.html
+recursive-include fouz *.ico
+recursive-include fouz *.js
+recursive-include fouz *.json
+recursive-include fouz *.md
+recursive-include fouz *.png
+recursive-include fouz *.py
+recursive-include fouz *.svg
+recursive-include fouz *.txt
+recursive-exclude fouz *.pyc
